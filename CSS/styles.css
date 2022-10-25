@@ -1,0 +1,48 @@
+body{
+  margin: 0px;
+  text-align:center;
+}
+.M0{
+   background-color: #87CEFA;
+   height: 100px;
+   position: relative;
+   padding-top:10px;
+   padding-right: 1000px;
+}
+.M1{
+   background-color: #87CEFA;
+}
+.C1{
+  position: absolute;
+}
+.c0{
+ position:absolute;
+ border:
+}
+.container-fluid{
+  background-color: #4682B4;
+}
+.collapse navbar-collapse{
+  background-color: #4682B4;
+}
+.CAI{
+  font-size: 40px;
+  font-family:Noto+Sans+Thai;
+  margin-bottom: 50px;
+}
+.name{
+  margin-bottom: 50px;
+
+}
+
+.skill{
+  width:10%;
+  margin: 0 auto;
+}
+
+.hr1{position: relative;
+top: 20px;
+border: none;
+height: 12px;
+background: black;
+margin-bottom: 50px;}
